@@ -9,7 +9,7 @@ Este projeto foi idealizado apenas para fazer parte do meu portfólio como demon
 
 ### O que é este projeto?
 
-O Network Info Edge é uma ferramenta para visualizar informações a respeito da sua conexão. Ele mostra informações sobre a conexão wifi ou móvel, uso de rede, IP(v4 ou v6) público, geolocalização e ainda é possível escanear as portas da sua rede. Sua diferença é que ele é usado pelo painel edge, um recurso disponível em dispositivos Samsung (linha Galaxy S e Note). Este aplicativo foi desenvolvido utilizando o [SDK Edge(Look)](https://developer.samsung.com/galaxy/edge) da Samsung e é exclusivo para dispositivos Samsung que possuam a tela edge.
+O Network Info Edge é uma ferramenta para visualizar informações a respeito da sua conexão. Ele mostra informações sobre a conexão wifi ou móvel, uso de rede, IP(v4 ou v6) público, geolocalização, escanear a LAN e ainda é possível escanear as portas da sua rede. Sua diferença é que ele é usado pelo painel edge, um recurso disponível em dispositivos Samsung (linha Galaxy S e Note). Este aplicativo foi desenvolvido utilizando o [SDK Edge(Look)](https://developer.samsung.com/galaxy/edge) da Samsung e é exclusivo para dispositivos Samsung que possuam a tela edge.
 
 ### O que foi utilizado:
 
