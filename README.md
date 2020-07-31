@@ -3,7 +3,7 @@ Este projeto foi idealizado apenas para fazer parte do meu portfólio como demon
 
 **Por ser um aplicativo pago, o código não será disponibilizado aqui no GitHub.**
 
-**[Demonstração do Projeto](http://apps.samsung.com/appquery/appDetail.as?appId=a98apps.networkinfoedge)** (Galaxy Store)
+<a href="https://galaxy.store/98NIE"><img src="https://img.samsungapps.com/seller/images/badges/galaxyStore/png_big/GalaxyStore_Portuguese(Brazil).png?3" alt="Available on Samsung Galaxy Store" width="25%"></a>
 
 **Disponível apenas na Galaxy Store.**
 
@@ -23,4 +23,5 @@ O Network Info Edge é uma ferramenta para visualizar informações a respeito d
 * [Glide](https://github.com/bumptech/glide) (Para trabalhar com GIF)
 * [IPInfoDB](https://ipinfodb.com/) (API utilizada na geolocalização do IP)
 * [ident.me](https://api.ident.me/) (API utilizada para consultar o endereço IP público da conexão)
+* [Free IP Geolocation API](https://freegeoip.app/) (API secundária utilizada na geolocalização do IP)
 
